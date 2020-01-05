@@ -1,1 +1,5 @@
-this is a trial file. 
+this is a trial file. I will list everything that needs to be done..
+1. create spring boot project
+2. create the files neeeded.
+3. DB connection.
+4. UI using React 
